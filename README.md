@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ## I'm Modus
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
-<table>
   <tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
