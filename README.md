@@ -1,17 +1,45 @@
-## Hi there 👋
 
-<!--
-**666modus/666modus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
--->
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+
+
+
+
+
+
+
+
+     </p>
+    </td>
+  </tr>
+  <tr>
+   <td>
+     <h2> 🛠 &nbsp;Tech Stack</h2>
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+     <br>    
+     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
+     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
+     <br>
+      <div align="center">
+      <h2><b>How to Reach Me</b></h2>
+      <br>
+      <p>Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
+      <br>
+      <a href="https://www.instagram.com/666modus/" target="_blank">
+      <img align="center" alt=" Modus | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      </a> &nbsp;&nbsp;
+      <a href="mailto:modusejemplo@gmail.com" >
+      <img align="center" alt=" Modus | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/modusexample/" >
+      <img align="center" alt=" Modus | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      </a> &nbsp;&nbsp;
+      <br>
+    </div>
+   </td>
+  </tr>
+</table>
+
+------
