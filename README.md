@@ -9,17 +9,15 @@
 
 
 
-     </p>
-    </td>
+</p>
+</td>
   </tr>
   <tr>
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>    
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-     <br>
       <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
