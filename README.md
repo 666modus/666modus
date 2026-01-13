@@ -7,20 +7,12 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>🎓 &nbsp; Técnico Superior en Administración Contable</li>
+        <li>📚 &nbsp; Studying ... at ...</li>
+        <li>👑 &nbsp; I am a self-taught jr. data analyst </li>
+        <li>🤔 &nbsp; Interested in . . . </li>
        </ul>
        <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
-    </td>
-    <td>
-     <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
-     
 </p>
 </td>
   </tr>
