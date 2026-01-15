@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Modus [![GitHub followers](https://img.shields.io/badge/Jr.%20Data%20Analyst-8A2BE2?style=plastic&link=https%3A%2F%2Fgithub.com%2F666modus)]
+## I'm Modus ![GitHub followers](https://img.shields.io/badge/Jr.%20Data%20Analyst-8A2BE2?style=plastic&link=https%3A%2F%2Fgithub.com%2F666modus)
 
   <tr>
     <td>
