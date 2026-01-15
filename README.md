@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Modus  <img (https://img.shields.io/badge/Jr.%20Data%20Analyst-8A2BE2 />
+## I'm Modus 
 
   <tr>
     <td>
@@ -8,7 +8,7 @@
        <ul>
         <li>🎓 &nbsp; Técnico Superior en Administración Contable</li>
         <li>📚 &nbsp; Studying ... at ...</li>
-        <li>👑 &nbsp; I am a self-taught jr. data analyst </li> [(https://img.shields.io/badge/Jr.%20Data%20Analyst-8A2BE2)]
+        <li>👑 &nbsp; I am a self-taught jr. data analyst </li>
         <li>🤔 &nbsp; Interested in . . . </li>
        </ul>
        <p align="center">
