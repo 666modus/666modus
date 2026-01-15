@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## I'm Modus
+## I'm Modus https://img.shields.io/badge/Jr.%20Data%20Analyst-8A2BE2
+
   <tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
