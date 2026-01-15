@@ -12,16 +12,6 @@
         <li>🤔 &nbsp; Interested in . . . </li>
        </ul>
        <p align="center">
-</p>
-</td>
-  </tr>
-  <tr>
-   <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
-      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-      <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
       <p>Please don't hesitate to contact me 
