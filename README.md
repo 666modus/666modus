@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-## I'm Modus 
-[![GitHub followers](https://img.shields.io/badge/Jr.%20Data%20Analyst-8A2BE2?style=flat&link=https%3A%2F%2Fgithub.com%2F666modus)]
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+## I'm Modus ![GitHub followers](https://img.shields.io/badge/Jr.%20Data%20Analyst-8A2BE2?style=flat&link=https%3A%2F%2Fgithub.com%2F666modus)
+
   <tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
